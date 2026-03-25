@@ -1,4 +1,4 @@
-# AI Tester App
+# python-automation-pracice
 
-This is my first Flask app.
-Stage 1 - Flask Hello World implemented successfully.
+This repository contains my hands-on practice and learning using Python.
+It includes basic exercises,automation scripts, data analysis with python
